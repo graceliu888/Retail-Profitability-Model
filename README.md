@@ -30,12 +30,14 @@ retail-profitability-model/
 ├── README.md
 └── requirements.txt
 
-Getting Started
+## Getting Started
 1) Install dependencies
 pip install -r requirements.txt
 2) Run the notebook
 jupyter notebook
 Open: notebooks/01_profitability_model.ipynb
+
+---
 
 ## Model Overview
 
