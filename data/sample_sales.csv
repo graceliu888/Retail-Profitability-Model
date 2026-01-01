@@ -1,0 +1,13 @@
+sku,category,price,unit_cost,units_sold
+A001,Snacks,2.99,1.20,12000
+A002,Snacks,3.49,1.40,9000
+A003,Snacks,1.99,0.95,16000
+B001,Drinks,1.99,0.80,20000
+B002,Drinks,2.49,1.10,14000
+B003,Drinks,3.29,1.55,8000
+C001,Household,8.99,5.20,4200
+C002,Household,12.99,7.10,2500
+C003,Household,5.49,3.10,6000
+D001,PersonalCare,6.99,3.30,5200
+D002,PersonalCare,9.99,5.40,3100
+D003,PersonalCare,4.49,2.10,7600
